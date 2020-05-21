@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Attendance Matters</string>
     <string name="tagLine">Your Presence Is Important</string>
+    <string name="dev">Design And Developed By\n VIJAY KUMAR SINGH</string>
 </resources>

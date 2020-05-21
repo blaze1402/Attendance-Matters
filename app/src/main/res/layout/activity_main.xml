@@ -35,14 +35,14 @@
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/logo"
-        app:layout_constraintVertical_bias="0.03" />
+        app:layout_constraintVertical_bias="0.059" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="136dp"
-        android:text="Design And Developed By\n VIJAY KUMAR SINGH"
+        android:layout_marginBottom="100dp"
+        android:text="@string/dev"
         android:textAlignment="center"
         android:textColor="@color/colorPrimaryText"
         android:textSize="15sp"
